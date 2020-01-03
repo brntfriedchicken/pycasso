@@ -1,3 +1,9 @@
+"""
+Code heavily inspired by 
+https://www.reddit.com/r/processing/comments/djh7ya/procedural_brush_strokes_using_bezier_curves_code/ by u/thudly on reddit
+https://www.reddit.com/r/generative/comments/eb5vge/i_made_a_program_that_doodles_things_in_ms_paint/ by u/AirHamyes on reddit
+""""
+
 import pyautogui as py
 import pygetwindow as gw
 from math import floor
